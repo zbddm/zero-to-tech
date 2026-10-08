@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/css/layout.css"],"sourcesContent":["body {\n  font-family: var(--font);\n  line-height: 1.5;\n  color: var(--text-main);\n  background: var(--page-bg);\n}\n\n.app-shell {\n  min-height: 100vh;\n  background: linear-gradient(180deg, #ffffff 0%, var(--page-bg) 28%, var(--page-bg) 100%);\n}\n\n.page-shell {\n  width: min(var(--maxw), calc(100% - 40px));\n  margin: 0 auto;\n  padding: 0 0 32px;\n}\n\n.dashboard-grid {\n  display: grid;\n  grid-template-columns: repeat(12, minmax(0, 1fr));\n  gap: 18px;\n}\n\n.panel-full { grid-column: span 12; }\n.panel-half { grid-column: span 6; }\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;AAKA;;;;;;AAMA;;;;;;AAMA;;;;AACA"}}]
+}

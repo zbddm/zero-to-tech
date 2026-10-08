@@ -1,0 +1,60 @@
+/* [project]/css/responsive.css [app-client] (css) */
+@media (max-width: 834px) {
+  .panel-half {
+    grid-column: span 12;
+  }
+
+  .result-grid, .identity-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .lab-panel {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .page-shell {
+    width: min(var(--maxw), calc(100% - 24px));
+  }
+
+  .hero-stage {
+    min-height: auto;
+    padding: 12px 0 20px;
+  }
+
+  .hero-topline {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+
+  .hero-display {
+    font-size: 48px;
+  }
+
+  .hero-subtitle {
+    margin-top: 14px;
+    font-size: 18px;
+  }
+
+  .brand-eyebrow {
+    font-size: 18px;
+  }
+
+  .panel {
+    border-radius: 24px;
+    padding: 20px;
+  }
+
+  .panel-heading h3, .featured-title, .identity-value, .result-badge strong {
+    font-size: 24px;
+  }
+
+  .identity-quote {
+    font-size: 20px;
+  }
+}
+
+/*# sourceMappingURL=css_responsive_css_1igg3k2-ikub5._.single.css.map*/

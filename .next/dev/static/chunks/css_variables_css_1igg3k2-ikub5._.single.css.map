@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/css/variables.css"],"sourcesContent":[":root {\n  --page-bg: #f5f5f7;\n  --surface: #ffffff;\n  --surface-soft: #fbfbfd;\n  --text-main: #1d1d1f;\n  --text-soft: rgba(29, 29, 31, 0.72);\n  --text-muted: rgba(29, 29, 31, 0.56);\n  --brand: #0071e3;\n  --border-soft: rgba(29, 29, 31, 0.08);\n  --shadow: 3px 5px 30px rgba(0, 0, 0, 0.08);\n  --grad: linear-gradient(294deg, #ff00f7 0%, #1e98fd 100%);\n  --radius-panel: 32px;\n  --radius-soft: 18px;\n  --maxw: 980px;\n  --font: -apple-system, BlinkMacSystemFont, \"SF Pro Display\", \"SF Pro Text\",\n    \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;\n}\n"],"names":[],"mappings":"AAAA"}}]
+}

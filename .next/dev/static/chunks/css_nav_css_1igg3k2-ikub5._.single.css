@@ -1,0 +1,26 @@
+/* [project]/css/nav.css [app-client] (css) */
+.inline-links {
+  flex-wrap: wrap;
+  gap: 18px;
+  display: inline-flex;
+}
+
+.hero-nav {
+  justify-content: flex-end;
+}
+
+.nav-link {
+  color: #1d1d1f8a;
+  letter-spacing: -.24px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 1.33;
+  transition: color .2s;
+}
+
+.nav-link.active {
+  color: var(--text-main);
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=css_nav_css_1igg3k2-ikub5._.single.css.map*/

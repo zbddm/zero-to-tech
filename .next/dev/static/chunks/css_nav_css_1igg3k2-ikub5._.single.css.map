@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/css/nav.css"],"sourcesContent":[".inline-links {\n  display: inline-flex;\n  flex-wrap: wrap;\n  gap: 18px;\n}\n\n.hero-nav {\n  justify-content: flex-end;\n}\n\n.nav-link {\n  color: rgba(29, 29, 31, 0.54);\n  font-size: 15px;\n  line-height: 1.33;\n  letter-spacing: -0.24px;\n  cursor: pointer;\n  transition: color 0.2s;\n}\n\n.nav-link.active {\n  color: var(--text-main);\n  font-weight: 500;\n}\n"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;AAIA;;;;;;;;;AASA"}}]
+}

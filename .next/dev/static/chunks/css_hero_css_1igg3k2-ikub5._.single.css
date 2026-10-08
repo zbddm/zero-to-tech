@@ -1,0 +1,49 @@
+/* [project]/css/hero.css [app-client] (css) */
+.hero-stage {
+  align-content: center;
+  min-height: 36vh;
+  padding: 8px 0 18px;
+  display: grid;
+}
+
+.hero-topline {
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+  margin-bottom: 22px;
+  display: flex;
+}
+
+.hero-copy {
+  max-width: 620px;
+}
+
+.brand-eyebrow {
+  color: #1d1d1fe0;
+  letter-spacing: -.03em;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 1.14;
+}
+
+.hero-display {
+  letter-spacing: -.06em;
+  background: var(--grad);
+  color: #0000;
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-size: clamp(56px, 10vw, 96px);
+  font-weight: 600;
+  line-height: 1.04;
+}
+
+.hero-subtitle {
+  max-width: 540px;
+  color: var(--text-soft);
+  letter-spacing: -.02em;
+  margin-top: 10px;
+  font-size: clamp(18px, 2.2vw, 24px);
+  line-height: 1.28;
+}
+
+/*# sourceMappingURL=css_hero_css_1igg3k2-ikub5._.single.css.map*/

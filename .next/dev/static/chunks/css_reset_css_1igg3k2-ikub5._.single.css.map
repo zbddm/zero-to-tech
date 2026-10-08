@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/css/reset.css"],"sourcesContent":["*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }\nhtml, body { min-height: 100%; }\nul { list-style: none; }\na { text-decoration: none; color: inherit; }\nbutton, textarea { font: inherit; }\n"],"names":[],"mappings":"AAAA;;;;;;AACA;;;;AACA;;;;AACA;;;;;AACA"}}]
+}

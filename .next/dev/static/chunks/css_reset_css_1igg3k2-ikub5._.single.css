@@ -1,0 +1,25 @@
+/* [project]/css/reset.css [app-client] (css) */
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button, textarea {
+  font: inherit;
+}
+
+/*# sourceMappingURL=css_reset_css_1igg3k2-ikub5._.single.css.map*/

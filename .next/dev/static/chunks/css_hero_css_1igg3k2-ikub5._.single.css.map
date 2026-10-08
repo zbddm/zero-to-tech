@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/css/hero.css"],"sourcesContent":[".hero-stage {\n  padding: 8px 0 18px;\n  min-height: 36vh;\n  display: grid;\n  align-content: center;\n}\n\n.hero-topline {\n  display: flex;\n  align-items: baseline;\n  justify-content: space-between;\n  gap: 24px;\n  margin-bottom: 22px;\n}\n\n.hero-copy {\n  max-width: 620px;\n}\n\n.brand-eyebrow {\n  color: rgba(29, 29, 31, 0.88);\n  font-size: 21px;\n  font-weight: 500;\n  line-height: 1.14;\n  letter-spacing: -0.03em;\n}\n\n.hero-display {\n  font-size: clamp(56px, 10vw, 96px);\n  line-height: 1.04;\n  letter-spacing: -0.06em;\n  font-weight: 600;\n  background: var(--grad);\n  -webkit-background-clip: text;\n  background-clip: text;\n  color: transparent;\n}\n\n.hero-subtitle {\n  max-width: 540px;\n  margin-top: 10px;\n  color: var(--text-soft);\n  font-size: clamp(18px, 2.2vw, 24px);\n  line-height: 1.28;\n  letter-spacing: -0.02em;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;;AAQA;;;;AAIA;;;;;;;;AAQA;;;;;;;;;;;AAWA"}}]
+}
