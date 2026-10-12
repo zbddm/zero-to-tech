@@ -8,3 +8,4 @@ dist/
 *.log
 .env*
 backend/.venv/
+backend/__pycache__/
