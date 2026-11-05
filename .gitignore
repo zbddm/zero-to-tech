@@ -7,6 +7,8 @@ dist/
 !.vscode/extensions.json
 *.log
 .env*
+!.env.example
+
 backend/.venv/
 backend/__pycache__/
 *.pyc
